@@ -5,7 +5,7 @@ Learning python programming language
 2. [Strings](https://github.com/prathik-kumar/python/blob/master/Fundamentals/str-print.py)
 3. [Arrays, Tuples](https://github.com/prathik-kumar/python/blob/master/Fundamentals/array_tuple.py)
 4. [Functions](https://github.com/prathik-kumar/python/blob/master/Fundamentals/functions.py)
-5. [Lists, Dictioniaries](https://github.com/prathik-kumar/python/blob/master/Fundamentals/list-dict.py)
+5. [Lists, Dictioniaries](https://github.com/prathik-kumar/python/blob/master/Fundamentals/lists_dict.py)
 6. [Loops, Branching](https://github.com/prathik-kumar/python/blob/master/Fundamentals/loops_branch.py)
 7. [Modules](https://github.com/prathik-kumar/python/blob/master/Fundamentals/mymodule.py)
 8. [Modules test](https://github.com/prathik-kumar/python/blob/master/Fundamentals/module_test.py)
